@@ -1,0 +1,91 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+  background-color: rgb(237, 247, 248);
+}
+h1 {
+  font-weight: 400;
+  font-size: 65px;
+  color: rgb(19, 16, 58);
+}
+.acqua_color {
+  color: rgb(84, 30, 186);
+}
+.link_button {
+  text-decoration: none;
+  background-image: linear-gradient(rgb(84, 30, 186), rgba(197, 23, 23, 0.747));
+  margin-top: 50px;
+  padding: 10px 30px;
+  border-radius: 5%;
+  font-size: 24px;
+  font-weight: 200;
+  color: white;
+}
+section {
+  display: flex;
+}
+.half_width {
+  width: 50%;
+  padding-left: 10%;
+  position: relative;
+}
+div img {
+  width: 80%;
+}
+.rectangle {
+  height: 145px;
+  width: 1px;
+  background-color: blueviolet;
+  margin-top: 80px;
+  position: absolute;
+}
+.second {
+  text-align: center;
+}
+.mission {
+  width: 390px;
+  text-align: center;
+  background-color: rgba(123, 177, 194, 0.486);
+  border: 10 px solid rgb(15, 8, 8);
+  border-radius: 10px;
+  margin-left: 115px;
+  box-shadow: 2px 4px 8px gray;
+}
+.vission {
+  width: 390px;
+  text-align: center;
+  background-color: rgba(164, 201, 226, 0.363);
+  border: 10 px solid rgb(15, 8, 8);
+  border-radius: 10px;
+  margin-left: 30px;
+  box-shadow: 2px 4px 8px gray;
+}
+.goal {
+  width: 390px;
+  height: 600;
+  text-align: center;
+  background-color: rgba(221, 223, 208, 0.486);
+  border: 10 px solid rgb(15, 8, 8);
+  border-radius: 10px;
+  margin-left: 30px;
+  box-shadow: 2px 4px 8px gray;
+}
+.second_part {
+  display: flex;
+}
+.image img {
+  width: 60%;
+  margin-top: 100px;
+  margin-left: 120px;
+}
+footer {
+  width: 100%;
+  height: 40px;
+  text-align: center;
+  background-color: rgb(166, 183, 202);
+  font-size: 24px;
+}
+footer h2 {
+  margin-bottom: px;
+}
